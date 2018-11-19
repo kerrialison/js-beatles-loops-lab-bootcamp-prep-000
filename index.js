@@ -17,4 +17,11 @@ function johnLennonFacts(facts){
   }
 
   return johnFacts;
-  }
+}
+
+function iLoveTheBeatles(n){
+  const howMuchLove = []
+  do 
+
+  `"I love the Beatles!"`
+}
