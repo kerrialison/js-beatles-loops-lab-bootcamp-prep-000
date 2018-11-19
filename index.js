@@ -23,8 +23,10 @@ function iLoveTheBeatles(n){
   const howMuchLove = []
   do {
 
-  howMuchLove.push(`"I love the Beatles!"`)
+  howMuchLove.push("I love the Beatles!")
+  n++
   }
-  while (howMuchLove.length < 15)
+  while (n < 15)
+
   return howMuchLove
 }
