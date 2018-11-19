@@ -26,5 +26,5 @@ function iLoveTheBeatles(n){
   howMuchLove.push(`"I love the Beatles!"`)
   }
   while (howMuchLove.length < 15)
+  return howMuchLove
 }
-iLoveTheBeatles(11)
